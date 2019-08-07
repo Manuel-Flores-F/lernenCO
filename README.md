@@ -5,8 +5,8 @@
 Diseño e Implementación
 --
    
-    Para el diseño y la implementación se tiene la siguiente estructura la cual abarca: el análisis léxico, el análisis sintáctico y la
-    traducción dirigida 
+    Para el diseño y la implementación se tiene la siguiente estructura la cual abarca: 
+    el análisis léxico, el análisis sintáctico y la traducción dirigida 
 
     En el análisis léxico se especifican los tokens, los cuales se van a encargar de analizar
     si un símbolo pertenece o no al lenguaje, nos ayudaremos de la herramienta Flex.
